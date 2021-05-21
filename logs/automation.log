@@ -1,0 +1,442 @@
+05202021 01:27:44 PM: INFO:
+
+05202021 01:27:44 PM: INFO:====== WebDriver manager ======
+05202021 01:27:44 PM: INFO:Current google-chrome version is 90.0.4430
+05202021 01:27:44 PM: INFO:Get LATEST driver version for 90.0.4430
+05202021 01:27:45 PM: INFO:Driver [C:\Users\rohisinh\.wdm\drivers\chromedriver\win32\90.0.4430.24\chromedriver.exe] found in cache
+05202021 01:27:47 PM: INFO:**********Test_001_Login**********
+05202021 01:27:47 PM: INFO:*****Verifying Homepage Title*****
+05202021 01:27:51 PM: INFO:**HomePage Title Test Passed**
+05202021 01:27:51 PM: INFO:
+
+05202021 01:27:51 PM: INFO:====== WebDriver manager ======
+05202021 01:27:51 PM: INFO:Current google-chrome version is 90.0.4430
+05202021 01:27:51 PM: INFO:Get LATEST driver version for 90.0.4430
+05202021 01:27:52 PM: INFO:Driver [C:\Users\rohisinh\.wdm\drivers\chromedriver\win32\90.0.4430.24\chromedriver.exe] found in cache
+05202021 01:27:53 PM: INFO:*****Verifying Login Test*****
+05202021 01:28:02 PM: INFO:**Login Test Passed**
+05202021 01:54:16 PM: INFO:
+
+05202021 01:54:16 PM: INFO:====== WebDriver manager ======
+05202021 01:54:16 PM: INFO:Current google-chrome version is 90.0.4430
+05202021 01:54:16 PM: INFO:Get LATEST driver version for 90.0.4430
+05202021 01:54:16 PM: INFO:Driver [C:\Users\rohisinh\.wdm\drivers\chromedriver\win32\90.0.4430.24\chromedriver.exe] found in cache
+05202021 01:54:19 PM: INFO:**********Test_001_Login**********
+05202021 01:54:19 PM: INFO:*****Verifying Homepage Title*****
+05202021 01:54:27 PM: INFO:**HomePage Title Test Passed**
+05202021 01:54:27 PM: INFO:
+
+05202021 01:54:27 PM: INFO:====== WebDriver manager ======
+05202021 01:54:27 PM: INFO:Current google-chrome version is 90.0.4430
+05202021 01:54:27 PM: INFO:Get LATEST driver version for 90.0.4430
+05202021 01:54:27 PM: INFO:Driver [C:\Users\rohisinh\.wdm\drivers\chromedriver\win32\90.0.4430.24\chromedriver.exe] found in cache
+05202021 01:54:29 PM: INFO:*****Verifying Login Test*****
+05202021 01:54:40 PM: INFO:**Login Test Passed**
+05202021 01:54:49 PM: INFO:
+
+05202021 01:54:49 PM: INFO:====== WebDriver manager ======
+05202021 01:54:57 PM: INFO:Current firefox version is 76.0
+05202021 01:54:57 PM: INFO:Get LATEST driver version for 76.0
+05202021 01:54:57 PM: INFO:There is no [win64] geckodriver for browser 76.0 in cache
+05202021 01:54:57 PM: INFO:Get LATEST driver version for 76.0
+05202021 01:54:58 PM: INFO:Getting latest mozilla release info for v0.29.1
+05202021 01:54:58 PM: INFO:Get LATEST driver version for 76.0
+05202021 01:54:59 PM: INFO:Get LATEST driver version for 76.0
+05202021 01:54:59 PM: INFO:Trying to download new driver from https://github.com/mozilla/geckodriver/releases/download/v0.29.1/geckodriver-v0.29.1-win64.zip
+05202021 01:55:00 PM: INFO:Driver has been saved in cache [C:\Users\rohisinh\.wdm\drivers\geckodriver\win64\v0.29.1]
+05202021 01:55:02 PM: INFO:
+
+05202021 01:55:02 PM: INFO:====== WebDriver manager ======
+05202021 01:55:04 PM: INFO:Current firefox version is 76.0
+05202021 01:55:04 PM: INFO:Get LATEST driver version for 76.0
+05202021 01:55:04 PM: INFO:Driver [C:\Users\rohisinh\.wdm\drivers\geckodriver\win64\v0.29.1\geckodriver.exe] found in cache
+05202021 01:55:45 PM: INFO:
+
+05202021 01:55:45 PM: INFO:====== WebDriver manager ======
+05202021 01:55:46 PM: INFO:Current firefox version is 76.0
+05202021 01:55:46 PM: INFO:Get LATEST driver version for 76.0
+05202021 01:55:47 PM: INFO:Driver [C:\Users\rohisinh\.wdm\drivers\geckodriver\win64\v0.29.1\geckodriver.exe] found in cache
+05202021 01:55:47 PM: INFO:
+
+05202021 01:55:47 PM: INFO:====== WebDriver manager ======
+05202021 01:55:49 PM: INFO:Current firefox version is 76.0
+05202021 01:55:49 PM: INFO:Get LATEST driver version for 76.0
+05202021 01:55:49 PM: INFO:Driver [C:\Users\rohisinh\.wdm\drivers\geckodriver\win64\v0.29.1\geckodriver.exe] found in cache
+05202021 01:57:20 PM: INFO:
+
+05202021 01:57:20 PM: INFO:====== WebDriver manager ======
+05202021 01:57:21 PM: INFO:Current firefox version is 76.0
+05202021 01:57:21 PM: INFO:Get LATEST driver version for 76.0
+05202021 01:57:21 PM: INFO:Driver [C:\Users\rohisinh\.wdm\drivers\geckodriver\win64\v0.29.1\geckodriver.exe] found in cache
+05202021 01:57:40 PM: INFO:**********Test_001_Login**********
+05202021 01:57:40 PM: INFO:*****Verifying Homepage Title*****
+05202021 01:57:51 PM: INFO:**HomePage Title Test Passed**
+05202021 01:57:51 PM: INFO:
+
+05202021 01:57:51 PM: INFO:====== WebDriver manager ======
+05202021 01:57:53 PM: INFO:Current firefox version is 76.0
+05202021 01:57:53 PM: INFO:Get LATEST driver version for 76.0
+05202021 01:57:53 PM: INFO:Driver [C:\Users\rohisinh\.wdm\drivers\geckodriver\win64\v0.29.1\geckodriver.exe] found in cache
+05202021 01:58:00 PM: INFO:*****Verifying Login Test*****
+05202021 01:58:15 PM: INFO:**Login Test Passed**
+05202021 02:00:20 PM: INFO:
+
+05202021 02:00:20 PM: INFO:====== WebDriver manager ======
+05202021 02:00:20 PM: INFO:Current google-chrome version is 90.0.4430
+05202021 02:00:20 PM: INFO:Get LATEST driver version for 90.0.4430
+05202021 02:00:21 PM: INFO:Driver [C:\Users\rohisinh\.wdm\drivers\chromedriver\win32\90.0.4430.24\chromedriver.exe] found in cache
+05202021 02:00:23 PM: INFO:**********Test_001_Login**********
+05202021 02:00:23 PM: INFO:*****Verifying Homepage Title*****
+05202021 02:00:29 PM: INFO:**HomePage Title Test Passed**
+05202021 02:00:29 PM: INFO:
+
+05202021 02:00:29 PM: INFO:====== WebDriver manager ======
+05202021 02:00:29 PM: INFO:Current google-chrome version is 90.0.4430
+05202021 02:00:29 PM: INFO:Get LATEST driver version for 90.0.4430
+05202021 02:00:29 PM: INFO:Driver [C:\Users\rohisinh\.wdm\drivers\chromedriver\win32\90.0.4430.24\chromedriver.exe] found in cache
+05202021 02:00:31 PM: INFO:*****Verifying Login Test*****
+05202021 02:00:41 PM: INFO:**Login Test Passed**
+05202021 02:01:32 PM: INFO:
+
+05202021 02:01:32 PM: INFO:====== WebDriver manager ======
+05202021 02:01:34 PM: INFO:Current firefox version is 76.0
+05202021 02:01:34 PM: INFO:Get LATEST driver version for 76.0
+05202021 02:01:34 PM: INFO:Driver [C:\Users\rohisinh\.wdm\drivers\geckodriver\win64\v0.29.1\geckodriver.exe] found in cache
+05202021 02:01:41 PM: INFO:**********Test_001_Login**********
+05202021 02:01:41 PM: INFO:*****Verifying Homepage Title*****
+05202021 02:01:49 PM: INFO:**HomePage Title Test Passed**
+05202021 02:01:49 PM: INFO:
+
+05202021 02:01:49 PM: INFO:====== WebDriver manager ======
+05202021 02:01:51 PM: INFO:Current firefox version is 76.0
+05202021 02:01:51 PM: INFO:Get LATEST driver version for 76.0
+05202021 02:01:51 PM: INFO:Driver [C:\Users\rohisinh\.wdm\drivers\geckodriver\win64\v0.29.1\geckodriver.exe] found in cache
+05202021 02:01:58 PM: INFO:*****Verifying Login Test*****
+05202021 02:02:12 PM: INFO:**Login Test Passed**
+05202021 02:03:51 PM: INFO:
+
+05202021 02:03:51 PM: INFO:
+
+05202021 02:03:51 PM: INFO:====== WebDriver manager ======
+05202021 02:03:51 PM: INFO:====== WebDriver manager ======
+05202021 02:03:52 PM: INFO:Current firefox version is 76.0
+05202021 02:03:52 PM: INFO:Get LATEST driver version for 76.0
+05202021 02:03:52 PM: INFO:Current firefox version is 76.0
+05202021 02:03:52 PM: INFO:Get LATEST driver version for 76.0
+05202021 02:03:53 PM: INFO:Driver [C:\Users\rohisinh\.wdm\drivers\geckodriver\win64\v0.29.1\geckodriver.exe] found in cache
+05202021 02:03:53 PM: INFO:Driver [C:\Users\rohisinh\.wdm\drivers\geckodriver\win64\v0.29.1\geckodriver.exe] found in cache
+05202021 02:04:03 PM: INFO:**********Test_001_Login**********
+05202021 02:04:03 PM: INFO:*****Verifying Homepage Title*****
+05202021 02:04:03 PM: INFO:*****Verifying Login Test*****
+05202021 02:04:23 PM: INFO:**HomePage Title Test Passed**
+05202021 02:04:24 PM: INFO:**Login Test Passed**
+05202021 02:12:54 PM: INFO:
+
+05202021 02:12:54 PM: INFO:====== WebDriver manager ======
+05202021 02:12:54 PM: INFO:Current google-chrome version is 90.0.4430
+05202021 02:12:54 PM: INFO:Get LATEST driver version for 90.0.4430
+05202021 02:12:54 PM: INFO:Driver [C:\Users\rohisinh\.wdm\drivers\chromedriver\win32\90.0.4430.24\chromedriver.exe] found in cache
+05202021 02:12:58 PM: INFO:**********Test_001_Login**********
+05202021 02:12:58 PM: INFO:*****Verifying Homepage Title*****
+05202021 02:13:06 PM: INFO:**HomePage Title Test Passed**
+05202021 02:13:06 PM: INFO:
+
+05202021 02:13:06 PM: INFO:====== WebDriver manager ======
+05202021 02:13:06 PM: INFO:Current google-chrome version is 90.0.4430
+05202021 02:13:06 PM: INFO:Get LATEST driver version for 90.0.4430
+05202021 02:13:06 PM: INFO:Driver [C:\Users\rohisinh\.wdm\drivers\chromedriver\win32\90.0.4430.24\chromedriver.exe] found in cache
+05202021 02:13:08 PM: INFO:*****Verifying Login Test*****
+05202021 02:13:20 PM: INFO:**Login Test Passed**
+05202021 02:20:04 PM: INFO:
+
+05202021 02:20:04 PM: INFO:====== WebDriver manager ======
+05202021 02:20:04 PM: INFO:Current google-chrome version is 90.0.4430
+05202021 02:20:04 PM: INFO:Get LATEST driver version for 90.0.4430
+05202021 02:20:05 PM: INFO:Driver [C:\Users\rohisinh\.wdm\drivers\chromedriver\win32\90.0.4430.24\chromedriver.exe] found in cache
+05202021 02:20:06 PM: INFO:**********Test_001_Login**********
+05202021 02:20:06 PM: INFO:*****Verifying Homepage Title*****
+05202021 02:20:14 PM: INFO:**HomePage Title Test Passed**
+05202021 02:20:14 PM: INFO:
+
+05202021 02:20:14 PM: INFO:====== WebDriver manager ======
+05202021 02:20:14 PM: INFO:Current google-chrome version is 90.0.4430
+05202021 02:20:14 PM: INFO:Get LATEST driver version for 90.0.4430
+05202021 02:20:14 PM: INFO:Driver [C:\Users\rohisinh\.wdm\drivers\chromedriver\win32\90.0.4430.24\chromedriver.exe] found in cache
+05202021 02:20:16 PM: INFO:*****Verifying Login Test*****
+05202021 02:20:25 PM: INFO:**Login Test Passed**
+05202021 05:26:06 PM: INFO:
+
+05202021 05:26:06 PM: INFO:====== WebDriver manager ======
+05202021 05:26:07 PM: INFO:Current google-chrome version is 90.0.4430
+05202021 05:26:07 PM: INFO:Get LATEST driver version for 90.0.4430
+05202021 05:26:07 PM: INFO:Driver [C:\Users\rohisinh\.wdm\drivers\chromedriver\win32\90.0.4430.24\chromedriver.exe] found in cache
+05202021 05:26:10 PM: INFO:**********Test_002_DDT_Login**********
+05202021 05:26:10 PM: INFO:*****Verifying Login Test*****
+05202021 05:27:39 PM: INFO:
+
+05202021 05:27:39 PM: INFO:====== WebDriver manager ======
+05202021 05:27:39 PM: INFO:Current google-chrome version is 90.0.4430
+05202021 05:27:39 PM: INFO:Get LATEST driver version for 90.0.4430
+05202021 05:27:39 PM: INFO:Driver [C:\Users\rohisinh\.wdm\drivers\chromedriver\win32\90.0.4430.24\chromedriver.exe] found in cache
+05202021 05:27:41 PM: INFO:**********Test_002_DDT_Login**********
+05202021 05:27:41 PM: INFO:*****Verifying Login Test*****
+05202021 05:27:50 PM: INFO:Login DDT test Passed.......
+05202021 05:45:17 PM: INFO:
+
+05202021 05:45:17 PM: INFO:====== WebDriver manager ======
+05202021 05:45:17 PM: INFO:Current google-chrome version is 90.0.4430
+05202021 05:45:17 PM: INFO:Get LATEST driver version for 90.0.4430
+05202021 05:45:18 PM: INFO:Driver [C:\Users\rohisinh\.wdm\drivers\chromedriver\win32\90.0.4430.24\chromedriver.exe] found in cache
+05202021 05:45:22 PM: INFO:**********Test_002_DDT_Login**********
+05202021 05:45:22 PM: INFO:*****Verifying Login Test*****
+05202021 05:45:51 PM: INFO:
+
+05202021 05:45:52 PM: INFO:====== WebDriver manager ======
+05202021 05:45:52 PM: INFO:Current google-chrome version is 90.0.4430
+05202021 05:45:52 PM: INFO:Get LATEST driver version for 90.0.4430
+05202021 05:45:52 PM: INFO:Driver [C:\Users\rohisinh\.wdm\drivers\chromedriver\win32\90.0.4430.24\chromedriver.exe] found in cache
+05202021 05:45:54 PM: INFO:**********Test_002_DDT_Login**********
+05202021 05:45:54 PM: INFO:*****Verifying Login Test*****
+05202021 05:46:09 PM: INFO:**Passed**
+05202021 05:48:15 PM: INFO:
+
+05202021 05:48:15 PM: INFO:====== WebDriver manager ======
+05202021 05:48:15 PM: INFO:Current google-chrome version is 90.0.4430
+05202021 05:48:15 PM: INFO:Get LATEST driver version for 90.0.4430
+05202021 05:48:15 PM: INFO:Driver [C:\Users\rohisinh\.wdm\drivers\chromedriver\win32\90.0.4430.24\chromedriver.exe] found in cache
+05202021 05:48:17 PM: INFO:**********Test_002_DDT_Login**********
+05202021 05:48:17 PM: INFO:*****Verifying Login Test*****
+05202021 05:48:33 PM: INFO:**Passed**
+05202021 05:48:38 PM: INFO:Login DDT test Passed.......
+05202021 06:03:23 PM: INFO:
+
+05202021 06:03:23 PM: INFO:====== WebDriver manager ======
+05202021 06:03:23 PM: INFO:Current google-chrome version is 90.0.4430
+05202021 06:03:23 PM: INFO:Get LATEST driver version for 90.0.4430
+05202021 06:03:24 PM: INFO:Driver [C:\Users\rohisinh\.wdm\drivers\chromedriver\win32\90.0.4430.24\chromedriver.exe] found in cache
+05202021 06:03:25 PM: INFO:**********Test_002_DDT_Login**********
+05202021 06:03:25 PM: INFO:*****Verifying Login Test*****
+05202021 06:03:41 PM: INFO:**Passed**
+05202021 06:03:43 PM: INFO:Login DDT test Passed.......
+05202021 06:04:44 PM: INFO:
+
+05202021 06:04:44 PM: INFO:====== WebDriver manager ======
+05202021 06:04:44 PM: INFO:Current google-chrome version is 90.0.4430
+05202021 06:04:44 PM: INFO:Get LATEST driver version for 90.0.4430
+05202021 06:04:44 PM: INFO:Driver [C:\Users\rohisinh\.wdm\drivers\chromedriver\win32\90.0.4430.24\chromedriver.exe] found in cache
+05202021 06:04:46 PM: INFO:**********Test_002_DDT_Login**********
+05202021 06:04:46 PM: INFO:*****Verifying Login Test*****
+05202021 06:05:03 PM: INFO:**Passed**
+05202021 06:05:09 PM: INFO:**Passed**
+05202021 06:05:16 PM: INFO:**Passed**
+05202021 06:13:38 PM: INFO:
+
+05202021 06:13:38 PM: INFO:====== WebDriver manager ======
+05202021 06:13:39 PM: INFO:Current google-chrome version is 90.0.4430
+05202021 06:13:39 PM: INFO:Get LATEST driver version for 90.0.4430
+05202021 06:13:39 PM: INFO:Driver [C:\Users\rohisinh\.wdm\drivers\chromedriver\win32\90.0.4430.24\chromedriver.exe] found in cache
+05202021 06:13:41 PM: INFO:**********Test_002_DDT_Login**********
+05202021 06:13:41 PM: INFO:*****Verifying Login Test*****
+05202021 06:13:54 PM: INFO:**Passed**
+05202021 06:14:02 PM: INFO:**Passed**
+05202021 06:14:08 PM: INFO:**Passed**
+05202021 06:14:13 PM: INFO:**Passed**
+05202021 06:14:13 PM: INFO:Login DDT test Passed.......
+05202021 06:14:14 PM: INFO:***** End of Login DDT Test *****
+05202021 06:14:14 PM: INFO:***** ***** Completed TC_LoginDDT_002 ***** *****
+05202021 09:24:53 PM: INFO:
+
+05202021 09:24:53 PM: INFO:====== WebDriver manager ======
+05202021 09:24:53 PM: INFO:Current google-chrome version is 90.0.4430
+05202021 09:24:53 PM: INFO:Get LATEST driver version for 90.0.4430
+05202021 09:24:54 PM: INFO:Driver [C:\Users\rohisinh\.wdm\drivers\chromedriver\win32\90.0.4430.24\chromedriver.exe] found in cache
+05202021 09:24:57 PM: INFO:***** ***** Test_003_AddCustomer ***** *****
+05202021 09:25:08 PM: INFO:***** Login Successful *****
+05202021 09:25:08 PM: INFO:***** Starting Add Customer Test *****
+05202021 09:27:06 PM: INFO:
+
+05202021 09:27:06 PM: INFO:====== WebDriver manager ======
+05202021 09:27:06 PM: INFO:Current google-chrome version is 90.0.4430
+05202021 09:27:06 PM: INFO:Get LATEST driver version for 90.0.4430
+05202021 09:27:06 PM: INFO:Driver [C:\Users\rohisinh\.wdm\drivers\chromedriver\win32\90.0.4430.24\chromedriver.exe] found in cache
+05202021 09:27:08 PM: INFO:***** ***** Test_003_AddCustomer ***** *****
+05202021 09:27:19 PM: INFO:***** Login Successful *****
+05202021 09:27:19 PM: INFO:***** Starting Add Customer Test *****
+05202021 09:27:26 PM: INFO:***** Providing Customer Details *****
+05202021 09:29:15 PM: INFO:
+
+05202021 09:29:15 PM: INFO:====== WebDriver manager ======
+05202021 09:29:15 PM: INFO:Current google-chrome version is 90.0.4430
+05202021 09:29:15 PM: INFO:Get LATEST driver version for 90.0.4430
+05202021 09:29:15 PM: INFO:Driver [C:\Users\rohisinh\.wdm\drivers\chromedriver\win32\90.0.4430.24\chromedriver.exe] found in cache
+05202021 09:29:17 PM: INFO:***** ***** Test_003_AddCustomer ***** *****
+05202021 09:29:29 PM: INFO:***** Login Successful *****
+05202021 09:29:29 PM: INFO:***** Starting Add Customer Test *****
+05202021 09:29:32 PM: INFO:***** Providing Customer Details *****
+05202021 09:32:39 PM: INFO:
+
+05202021 09:32:39 PM: INFO:====== WebDriver manager ======
+05202021 09:32:39 PM: INFO:Current google-chrome version is 90.0.4430
+05202021 09:32:39 PM: INFO:Get LATEST driver version for 90.0.4430
+05202021 09:32:40 PM: INFO:Driver [C:\Users\rohisinh\.wdm\drivers\chromedriver\win32\90.0.4430.24\chromedriver.exe] found in cache
+05202021 09:32:42 PM: INFO:***** ***** Test_003_AddCustomer ***** *****
+05202021 09:32:54 PM: INFO:***** Login Successful *****
+05202021 09:32:54 PM: INFO:***** Starting Add Customer Test *****
+05202021 09:32:58 PM: INFO:***** Providing Customer Details *****
+05202021 09:33:10 PM: INFO:***** Saving Customer Info *****
+05202021 09:33:10 PM: INFO:***** Saved Customer Validation Started *****
+05202021 09:33:10 PM: INFO:***** Add Customer Test Passed *****
+05202021 09:33:10 PM: INFO:***** Add Customer Test complete *****
+05202021 11:07:30 PM: INFO:
+
+05202021 11:07:30 PM: INFO:====== WebDriver manager ======
+05202021 11:07:30 PM: INFO:Current google-chrome version is 90.0.4430
+05202021 11:07:30 PM: INFO:Get LATEST driver version for 90.0.4430
+05202021 11:07:31 PM: INFO:Driver [C:\Users\rohisinh\.wdm\drivers\chromedriver\win32\90.0.4430.24\chromedriver.exe] found in cache
+05202021 11:07:33 PM: INFO:***** ***** TEST_004 Search Customer By Email ***** *****
+05202021 11:08:14 PM: INFO:
+
+05202021 11:08:14 PM: INFO:====== WebDriver manager ======
+05202021 11:08:14 PM: INFO:Current google-chrome version is 90.0.4430
+05202021 11:08:14 PM: INFO:Get LATEST driver version for 90.0.4430
+05202021 11:08:14 PM: INFO:Driver [C:\Users\rohisinh\.wdm\drivers\chromedriver\win32\90.0.4430.24\chromedriver.exe] found in cache
+05202021 11:08:16 PM: INFO:***** ***** TEST_004 Search Customer By Email ***** *****
+05202021 11:08:25 PM: INFO:***** Login Successful *****
+05202021 11:08:25 PM: INFO:***** Starting Search Customer By Email *****
+05202021 11:11:26 PM: INFO:
+
+05202021 11:11:26 PM: INFO:====== WebDriver manager ======
+05202021 11:11:26 PM: INFO:Current google-chrome version is 90.0.4430
+05202021 11:11:26 PM: INFO:Get LATEST driver version for 90.0.4430
+05202021 11:11:26 PM: INFO:Driver [C:\Users\rohisinh\.wdm\drivers\chromedriver\win32\90.0.4430.24\chromedriver.exe] found in cache
+05202021 11:11:29 PM: INFO:***** ***** TEST_004 Search Customer By Email ***** *****
+05202021 11:11:38 PM: INFO:***** Login Successful *****
+05202021 11:11:38 PM: INFO:***** Starting Search Customer By Email *****
+05202021 11:33:17 PM: INFO:
+
+05202021 11:33:17 PM: INFO:====== WebDriver manager ======
+05202021 11:33:17 PM: INFO:Current google-chrome version is 90.0.4430
+05202021 11:33:17 PM: INFO:Get LATEST driver version for 90.0.4430
+05202021 11:33:17 PM: INFO:Driver [C:\Users\rohisinh\.wdm\drivers\chromedriver\win32\90.0.4430.24\chromedriver.exe] found in cache
+05202021 11:33:19 PM: INFO:***** ***** TEST_004 Search Customer By Email ***** *****
+05202021 11:33:27 PM: INFO:***** Login Successful *****
+05202021 11:33:27 PM: INFO:***** Starting Search Customer By Email *****
+05202021 11:35:11 PM: INFO:
+
+05202021 11:35:11 PM: INFO:====== WebDriver manager ======
+05202021 11:35:11 PM: INFO:Current google-chrome version is 90.0.4430
+05202021 11:35:11 PM: INFO:Get LATEST driver version for 90.0.4430
+05202021 11:35:11 PM: INFO:Driver [C:\Users\rohisinh\.wdm\drivers\chromedriver\win32\90.0.4430.24\chromedriver.exe] found in cache
+05202021 11:35:13 PM: INFO:***** ***** TEST_004 Search Customer By Email ***** *****
+05202021 11:35:24 PM: INFO:***** Login Successful *****
+05202021 11:35:24 PM: INFO:***** Starting Search Customer By Email *****
+05202021 11:43:25 PM: INFO:
+
+05202021 11:43:25 PM: INFO:====== WebDriver manager ======
+05202021 11:43:25 PM: INFO:Current google-chrome version is 90.0.4430
+05202021 11:43:25 PM: INFO:Get LATEST driver version for 90.0.4430
+05202021 11:43:26 PM: INFO:Driver [C:\Users\rohisinh\.wdm\drivers\chromedriver\win32\90.0.4430.24\chromedriver.exe] found in cache
+05202021 11:43:28 PM: INFO:***** ***** TEST_004 Search Customer By Email ***** *****
+05202021 11:43:39 PM: INFO:***** Login Successful *****
+05202021 11:43:39 PM: INFO:***** Starting Search Customer By Email *****
+05202021 11:43:46 PM: INFO:***** ***** TEST_004 Search Customer By Email Finished ***** *****
+05202021 11:49:46 PM: INFO:
+
+05202021 11:49:46 PM: INFO:====== WebDriver manager ======
+05202021 11:49:46 PM: INFO:Current google-chrome version is 90.0.4430
+05202021 11:49:46 PM: INFO:Get LATEST driver version for 90.0.4430
+05202021 11:49:46 PM: INFO:Driver [C:\Users\rohisinh\.wdm\drivers\chromedriver\win32\90.0.4430.24\chromedriver.exe] found in cache
+05202021 11:49:48 PM: INFO:***** ***** TEST_005 Search Customer By Name ***** *****
+05202021 11:49:57 PM: INFO:***** Login Successful *****
+05202021 11:49:57 PM: INFO:***** Starting Search Customer By Name *****
+05202021 11:50:04 PM: INFO:***** ***** TEST_005 Search Customer By Name Finished ***** *****
+05212021 02:12:43 PM: INFO:
+
+05212021 02:12:43 PM: INFO:====== WebDriver manager ======
+05212021 02:12:43 PM: INFO:Current google-chrome version is 90.0.4430
+05212021 02:12:43 PM: INFO:Get LATEST driver version for 90.0.4430
+05212021 02:12:44 PM: INFO:Get LATEST driver version for 90.0.4430
+05212021 02:12:44 PM: INFO:Trying to download new driver from https://chromedriver.storage.googleapis.com/90.0.4430.24/chromedriver_win32.zip
+05212021 02:12:45 PM: INFO:Driver has been saved in cache [C:\Users\rohisinh\.wdm\drivers\chromedriver\win32\90.0.4430.24]
+05212021 02:12:50 PM: INFO:***** ***** Test_003_AddCustomer ***** *****
+05212021 02:13:01 PM: INFO:***** Login Successful *****
+05212021 02:13:01 PM: INFO:***** Starting Add Customer Test *****
+05212021 02:13:07 PM: INFO:***** Providing Customer Details *****
+05212021 02:13:19 PM: INFO:***** Saving Customer Info *****
+05212021 02:13:19 PM: INFO:***** Saved Customer Validation Started *****
+05212021 02:13:21 PM: INFO:***** Add Customer Test Passed *****
+05212021 02:13:21 PM: INFO:***** Add Customer Test complete *****
+05212021 02:13:21 PM: INFO:
+
+05212021 02:13:21 PM: INFO:====== WebDriver manager ======
+05212021 02:13:21 PM: INFO:Current google-chrome version is 90.0.4430
+05212021 02:13:21 PM: INFO:Get LATEST driver version for 90.0.4430
+05212021 02:13:21 PM: INFO:Driver [C:\Users\rohisinh\.wdm\drivers\chromedriver\win32\90.0.4430.24\chromedriver.exe] found in cache
+05212021 02:13:23 PM: INFO:**********Test_001_Login**********
+05212021 02:13:23 PM: INFO:*****Verifying Homepage Title*****
+05212021 02:13:29 PM: INFO:**HomePage Title Test Passed**
+05212021 02:13:29 PM: INFO:
+
+05212021 02:13:29 PM: INFO:====== WebDriver manager ======
+05212021 02:13:29 PM: INFO:Current google-chrome version is 90.0.4430
+05212021 02:13:29 PM: INFO:Get LATEST driver version for 90.0.4430
+05212021 02:13:29 PM: INFO:Driver [C:\Users\rohisinh\.wdm\drivers\chromedriver\win32\90.0.4430.24\chromedriver.exe] found in cache
+05212021 02:13:31 PM: INFO:*****Verifying Login Test*****
+05212021 02:13:42 PM: INFO:**Login Test Passed**
+05212021 02:13:42 PM: INFO:
+
+05212021 02:13:42 PM: INFO:====== WebDriver manager ======
+05212021 02:13:42 PM: INFO:Current google-chrome version is 90.0.4430
+05212021 02:13:42 PM: INFO:Get LATEST driver version for 90.0.4430
+05212021 02:13:42 PM: INFO:Driver [C:\Users\rohisinh\.wdm\drivers\chromedriver\win32\90.0.4430.24\chromedriver.exe] found in cache
+05212021 02:13:44 PM: INFO:**********Test_002_DDT_Login**********
+05212021 02:13:44 PM: INFO:*****Verifying Login Test*****
+05212021 02:14:00 PM: INFO:**Passed**
+05212021 02:14:08 PM: INFO:**Passed**
+05212021 02:14:15 PM: INFO:**Passed**
+05212021 02:14:21 PM: INFO:**Passed**
+05212021 02:14:21 PM: INFO:Login DDT test Passed.......
+05212021 02:14:21 PM: INFO:***** End of Login DDT Test *****
+05212021 02:14:21 PM: INFO:***** ***** Completed TC_LoginDDT_002 ***** *****
+05212021 02:14:21 PM: INFO:
+
+05212021 02:14:21 PM: INFO:====== WebDriver manager ======
+05212021 02:14:22 PM: INFO:Current google-chrome version is 90.0.4430
+05212021 02:14:22 PM: INFO:Get LATEST driver version for 90.0.4430
+05212021 02:14:22 PM: INFO:Driver [C:\Users\rohisinh\.wdm\drivers\chromedriver\win32\90.0.4430.24\chromedriver.exe] found in cache
+05212021 02:14:24 PM: INFO:***** ***** TEST_004 Search Customer By Email ***** *****
+05212021 02:14:33 PM: INFO:***** Login Successful *****
+05212021 02:14:33 PM: INFO:***** Starting Search Customer By Email *****
+05212021 02:14:42 PM: INFO:***** ***** TEST_004 Search Customer By Email Finished ***** *****
+05212021 02:14:42 PM: INFO:
+
+05212021 02:14:42 PM: INFO:====== WebDriver manager ======
+05212021 02:14:42 PM: INFO:Current google-chrome version is 90.0.4430
+05212021 02:14:42 PM: INFO:Get LATEST driver version for 90.0.4430
+05212021 02:14:42 PM: INFO:Driver [C:\Users\rohisinh\.wdm\drivers\chromedriver\win32\90.0.4430.24\chromedriver.exe] found in cache
+05212021 02:14:44 PM: INFO:***** ***** TEST_005 Search Customer By Name ***** *****
+05212021 02:14:55 PM: INFO:***** Login Successful *****
+05212021 02:14:55 PM: INFO:***** Starting Search Customer By Name *****
+05212021 02:15:01 PM: INFO:***** ***** TEST_005 Search Customer By Name Finished ***** *****
+05212021 02:15:47 PM: INFO:
+
+05212021 02:15:47 PM: INFO:====== WebDriver manager ======
+05212021 02:15:47 PM: INFO:Current google-chrome version is 90.0.4430
+05212021 02:15:47 PM: INFO:Get LATEST driver version for 90.0.4430
+05212021 02:15:47 PM: INFO:Driver [C:\Users\rohisinh\.wdm\drivers\chromedriver\win32\90.0.4430.24\chromedriver.exe] found in cache
+05212021 02:15:49 PM: INFO:***** ***** Test_003_AddCustomer ***** *****
+05212021 02:15:58 PM: INFO:***** Login Successful *****
+05212021 02:15:58 PM: INFO:***** Starting Add Customer Test *****
+05212021 02:16:01 PM: INFO:***** Providing Customer Details *****
+05212021 02:16:13 PM: INFO:***** Saving Customer Info *****
+05212021 02:16:13 PM: INFO:***** Saved Customer Validation Started *****
+05212021 02:16:13 PM: INFO:***** Add Customer Test Passed *****
+05212021 02:16:13 PM: INFO:***** Add Customer Test complete *****
+05212021 02:16:13 PM: INFO:
+
+05212021 02:16:13 PM: INFO:====== WebDriver manager ======
+05212021 02:16:13 PM: INFO:Current google-chrome version is 90.0.4430
+05212021 02:16:13 PM: INFO:Get LATEST driver version for 90.0.4430
+05212021 02:16:13 PM: INFO:Driver [C:\Users\rohisinh\.wdm\drivers\chromedriver\win32\90.0.4430.24\chromedriver.exe] found in cache
+05212021 02:16:15 PM: INFO:*****Verifying Login Test*****
+05212021 02:16:26 PM: INFO:**Login Test Passed**
