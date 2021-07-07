@@ -1,0 +1,1 @@
+pytest -s -v --html=./reports/report.html testCases/test_addCustomer.py --browser chrome

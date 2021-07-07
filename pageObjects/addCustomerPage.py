@@ -3,8 +3,9 @@ from selenium.webdriver.support.ui import Select
 
 class AddCustomer():
 
-    lnkCustomers_menu_xpath = "/html/body/div[3]/aside/div/div[4]/div/div/nav/ul/li[4]/a/p"
-    lnkCustomers_menuitem_xpath = "/html/body/div[3]/aside/div/div[4]/div/div/nav/ul/li[4]/ul/li[1]/a/p"
+    lnkCustomers_menu_xpath = "/html/body/div[3]/aside/div/div[4]/div/div/nav/ul/li[4]/a"
+    # lnkCustomers_menu_css = "body > div.wrapper > aside > div > div.os-padding > div > div > nav > ul > li:nth-child(4) > a"
+    lnkCustomers_menuitem_xpath = "/html/body/div[3]/aside/div/div[4]/div/div/nav/ul/li[4]/ul/li[1]/a"
     btnAddnew_xpath = "/html/body/div[3]/div[1]/form[1]/div/div/a"
     txtEmail_xpath = "//*[@id='Email']"
     txtPassword_xpath = "//*[@id='Password']"
@@ -28,6 +29,7 @@ class AddCustomer():
 
     def clickOnCustomersMenu(self):
         self.driver.find_element_by_xpath(self.lnkCustomers_menu_xpath).click()
+        # self.driver.find_element_by_css_selector(self.lnkCustomers_menu_css).click()
 
     def clickOnCustomersMenuItem(self):
         self.driver.find_element_by_xpath(self.lnkCustomers_menuitem_xpath).click()
